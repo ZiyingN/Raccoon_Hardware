@@ -647,6 +647,8 @@ module Raccoon_top(
             endcase
     end 
     //seed
+    // Here we define vk_seed, s_seed, e_seed, and mu as constants just for verification. When actually using them, please use random numbers input from the outside and ensure that s_seed and e_seed are refreshed.
+    //
     always @(posedge clk ) begin
 	   if(rst)
 		  vk_seed <=  0;
