@@ -12,7 +12,6 @@
 // Description: 
 // 
 // Dependencies: 
-// LUT 310 FF 290 3.6 0.664
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
