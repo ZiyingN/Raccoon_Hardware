@@ -17,8 +17,7 @@
 //   mod[1:0] - 01  intt
 //   mod[1:0] - 10  pwm
 //   mod[1:0] - 11  restruct
-// This module includes 2 bf modules and using the float modules. 
-// LUTs 1140 FFs 1746 CLK 3.6 WNS 0.032 DSP 4 
+// This module includes 2 bf modules.  
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
