@@ -11,8 +11,7 @@
 // Tool Versions: 
 // Description: 
 // 
-// Dependencies:  LUT 2618 FF 2563 DSP 4 
-//  CLK 3.6 WNS -0.183  
+// Dependencies:
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
