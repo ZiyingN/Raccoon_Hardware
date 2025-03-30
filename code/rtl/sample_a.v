@@ -12,7 +12,6 @@
 // Description: 
 // 
 // Dependencies: 
-//  LLUT 231 FF 264 CLK 3.6 WNS 0.409
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
