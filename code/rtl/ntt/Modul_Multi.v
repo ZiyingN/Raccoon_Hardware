@@ -12,7 +12,6 @@
 // Description: 
 // 
 // Dependencies: 
-// LUT 261 FF 294 DSP 2 CLK 3.6 WNS 0.043  - noraml strategy CYCLES   5
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
