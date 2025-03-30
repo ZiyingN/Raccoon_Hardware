@@ -12,7 +12,6 @@
 // Description: 
 // 
 // Dependencies: 
-//  A7-3 CLK:3.3 WNS: 0.625 - noraml strategy LUT 101  FF 105  // 3 cycles
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
