@@ -10,9 +10,8 @@
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// To reduce the multi production of Q_25 = 33292289, Input 50-bit, Output 25-bit, 2 cycles
+// To reduce the multi production of Q_25 = 33292289, Input 50-bit, Output 25-bit, 3 cycles
 // Dependencies: 
-// A7-3 CLK:3.3 WNS: 0.297 - noraml strategy LUT 113 FF 63  // 3 cycles
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
