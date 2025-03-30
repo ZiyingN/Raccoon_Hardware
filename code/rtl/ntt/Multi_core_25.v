@@ -12,7 +12,6 @@
 // Description: 
 // 
 // Dependencies: 
-// LUT 40 FF 52 DSP 2 CYCLE 3.3 WNS 0.379  - noraml strategy
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
