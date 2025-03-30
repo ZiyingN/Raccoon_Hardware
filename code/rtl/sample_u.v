@@ -12,7 +12,6 @@
 // Description: 
 // 
 // Dependencies: 
-// LUT 78 FF 277
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
